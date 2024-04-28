@@ -21,7 +21,7 @@
 
 ## What is Polaris?
 
-Introducing Polaris, the revolutionary framework designed to simplify the integration of an Ethereum Virtual Machine (EVM) into your application. Polaris is built with a clean, easy-to-integrate API that eliminates the need for developers to spend time hacking together their own EVM integration solutions. Our framework is highly modular, allowing you to choose the components that best fit your needs and integrate an EVM environment into virtually any application.
+Introducing Polaris, the revolutionary framework designed to simplify the integration of an Ethereum Virtual Machine (EVM) into your application. Polaris is built with a clean, easy-to-integrate API that eliminates the need for developers to spend time hacking together their own EVM integration solutions. Our framework  is  highly  modular,  allowing  you  to choose the components that best fit your needs and integrate an EVM environment into virtually any application.
 
 Polaris is built with several core principles in mind:
 
